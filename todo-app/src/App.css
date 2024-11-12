@@ -1,0 +1,13 @@
+.App {
+  text-align: center;
+}
+
+.task {
+  border: 1px solid #ccc;
+  margin: 5px;
+  padding: 10px;
+}
+
+.task.done {
+  text-decoration: line-through;
+}
